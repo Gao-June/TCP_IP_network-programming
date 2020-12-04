@@ -54,3 +54,24 @@
   unit_13_readv.c  
   unit_13_writev.c  
 
+# Unit-15
+  unit_15_desto.c  
+  unit_15_stdcpy.c  
+  unit_15_syscpy.c  
+  unit_15_todes.c  
+
+# Unit-16
+  unit_16_dup_dup2.c  
+
+
+# Unit-18
+  unit_18_chat_client.c  
+  unit_18_chat_server.c  
+  unit_18_mutex.c  
+  unit_18_thread1.c  
+  unit_18_thread2.c  
+  unit_18_thread3.c  
+
+# Unit-24
+  unit_24_webserv_linux.c  
+
