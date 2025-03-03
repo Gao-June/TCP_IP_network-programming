@@ -64,6 +64,9 @@
         <mxCell id="kKcUOd927iJBqHVpucFE-21" value="Q" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kKcUOd927iJBqHVpucFE-14">
           <mxGeometry x="60" y="50" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kKcUOd927iJBqHVpucFE-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
